@@ -6,3 +6,4 @@ streamlit
 langchain_groq
 langchain_core
 langchain-chroma
+langchain-huggingface
